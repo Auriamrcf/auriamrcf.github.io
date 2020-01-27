@@ -1,0 +1,24 @@
+h1, h2 {
+    color: white;
+    background-color: darkcyan;
+}
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+}
+h3{
+    color:white;
+    background-color: #ee3e80;
+    font-size: 18px;
+}
+
+body{
+    font-family: Arial, Verdana, sans-serif;
+    background-color: rgb(200,200,200);
+    color:rgb(100,100,90);
+    font-size: 16px;
+}
+
